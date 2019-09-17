@@ -48,6 +48,8 @@ inicial al punto final.
 
 ![System Monitor](imagenes/mapa_ruta.png)
 
+![System Monitor](imagenes/mapa_ruta2.png)
+
 Utilizar en la Implementación
 --
 Leer archivos, estructurar la data, Procesar, y luego
