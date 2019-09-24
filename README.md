@@ -1,21 +1,16 @@
 # Proyecto de Programación Orientado a Objetos
 
-Integrantes:
+Integrantes - (Usuarios Github:):
 --
 
-1.- <b></b>
+1.- <b>nombre_completo1</b><br>
+    <i>usuario_github1</i>
 
-2.- <b></b>
+2.- <b>nombre_completo2</b><br>
+    <i>usuario_github2</i>
 
-3.- <b></b>
-
-Usuarios Github:
---
-1.- <b></b>
-
-2.- <b></b>
-
-3.- <b></b>
+3.- <b>nombre_completo3</b><br>
+    <i>usuario_github3</i>
 
 Instrucciones:
 --
