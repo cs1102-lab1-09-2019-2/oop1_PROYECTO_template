@@ -1,10 +1,21 @@
 # Proyecto de Programación Orientado a Objetos
 
-Nombre:
+Integrantes:
 --
 
-Usuario Github:
+1.- <b></b>
+
+2.- <b></b>
+
+3.- <b></b>
+
+Usuarios Github:
 --
+1.- <b></b>
+
+2.- <b></b>
+
+3.- <b></b>
 
 Instrucciones:
 --
@@ -48,8 +59,6 @@ inicial al punto final.
 
 ![System Monitor](imagenes/mapa_ruta.png)
 
-![System Monitor](imagenes/mapa_ruta2.png)
-
 Utilizar en la Implementación
 --
 Leer archivos, estructurar la data, Procesar, y luego
@@ -71,7 +80,7 @@ Fecha de Asignacion:
 --
 Semana 7 - Jueves 03/10/2019
 
-Numero de Alumnos
+Numero de Alumnos por equipo
 --
 3
 
@@ -82,7 +91,3 @@ Semana 11
 Hito 2
 --
 Semana 15
-
-Fecha de Presentacion:
---
-Enviar propuesta=> 20/09/2019
