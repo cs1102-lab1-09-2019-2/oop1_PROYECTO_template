@@ -1,5 +1,9 @@
 # Proyecto de Programación Orientado a Objetos
 
+<div style="text-align:center; font-size: 15px;">
+    <b>Nombre del equipo</b>
+</div>
+
 Integrantes - (Usuarios Github:):
 --
 
@@ -75,9 +79,18 @@ Fecha de Asignacion:
 --
 Semana 7 - Jueves 03/10/2019
 
-Numero de Alumnos por equipo
+Número de Alumnos por equipo
 --
-3
+*   3 alumnos por equipo
+*   Uno de los integrantes del grupo ingresa al link de classroom y crea un proyecto
+asignadole un nombre.
+*   El resto de los integrantes del grupo busca ese nombre creado para
+ser parte del grupo. 
+
+Recursos
+--
+*   [Comandos GitHub](recursos/git-cheat-sheet-education.pdf)
+
 
 Hito 1
 --
